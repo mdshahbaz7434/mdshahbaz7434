@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-label="Revenue, cost, and productivity outcomes">
+  <rect width="1100" height="220" rx="24" fill="#0B1220"/>
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <rect x="24" y="20" width="340" height="180" rx="18" fill="#16110A" stroke="#3F2F12"/>
+    <text x="48" y="52" fill="#F5C16C" font-size="13" font-weight="700" letter-spacing="2">REVENUE</text>
+    <text x="48" y="96" fill="#F8FAFC" font-size="22" font-weight="700">AI that sells</text>
+    <text x="48" y="128" fill="#CBD5E1" font-size="14">+20% auction sales · 1,000+ high-value segments</text>
+    <text x="48" y="154" fill="#CBD5E1" font-size="14">Pakistans first AI loan book in production</text>
+    <text x="48" y="180" fill="#94A3B8" font-size="13">Masho RAG · Profitability engine · Credit</text>
+
+    <rect x="380" y="20" width="340" height="180" rx="18" fill="#081614" stroke="#134E4A"/>
+    <text x="404" y="52" fill="#5EEAD4" font-size="13" font-weight="700" letter-spacing="2">COST</text>
+    <text x="404" y="96" fill="#F8FAFC" font-size="22" font-weight="700">AI that saves</text>
+    <text x="404" y="128" fill="#CBD5E1" font-size="14">$2M+ fraud leakage · 80% faster TVA runs</text>
+    <text x="404" y="154" fill="#CBD5E1" font-size="14">90% less warehouse firefighting</text>
+    <text x="404" y="180" fill="#94A3B8" font-size="13">Multi-agent fraud · Self-healing ETL</text>
+
+    <rect x="736" y="20" width="340" height="180" rx="18" fill="#0B1220" stroke="#1E3A5F"/>
+    <text x="760" y="52" fill="#93C5FD" font-size="13" font-weight="700" letter-spacing="2">PRODUCTIVITY</text>
+    <text x="760" y="96" fill="#F8FAFC" font-size="22" font-weight="700">AI that ships work</text>
+    <text x="760" y="128" fill="#CBD5E1" font-size="14">15,000+ auto-fixes · 10,000+ docs / week</text>
+    <text x="760" y="154" fill="#CBD5E1" font-size="14">40% faster loans · onboarding audit in-flow</text>
+    <text x="760" y="180" fill="#94A3B8" font-size="13">MLOps · Account opening · Audit engine</text>
+  </g>
+</svg>

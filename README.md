@@ -1,23 +1,32 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mdshahbaz7434/mdshahbaz7434/main/assets/banner.png?v=3" alt="Shehbaz Muneer — AI that turns into revenue, cost savings, and hours back" width="100%" />
+  <img src="https://raw.githubusercontent.com/mdshahbaz7434/mdshahbaz7434/main/assets/banner.png?v=4" alt="Shehbaz Muneer — Forward Deployed Engineer and Solution Architect" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
 
-**AI Industrialization Lead & MLOps** · **Forward Deployed Engineer** · **Solution Architect**  
-United Bank Limited · Karachi · [LinkedIn](https://www.linkedin.com/in/shehbazmuneer/) · [Email](mailto:muhammadshahbazmuneer74@gmail.com) · [IEEE](https://doi.org/10.1109/IMCERT57083.2023.10075275)
+# Shehbaz Muneer
 
-I am paid when a problem leaves the building as **revenue**, **cost-out**, or **hours returned**.  
-The model is not the deliverable. The moved number is.
+**Forward Deployed Engineer | Solution Architect**  
+AI Industrialization Lead & MLOps · United Bank Limited · Karachi
+
+[LinkedIn](https://www.linkedin.com/in/shehbazmuneer/) · [Email](mailto:muhammadshahbazmuneer74@gmail.com) · [IEEE](https://doi.org/10.1109/IMCERT57083.2023.10075275)
 
 </div>
+
+### How I work (and how I do not)
+
+I **do not** have models that live only in a notebook.
+
+I sit with the business as a **Forward Deployed Engineer** and **Solution Architect**, then run the same factory every time: understand the problem → design the solution → data-first modeling (ETL) → build the AI (agents / ML) → industrialize it in production → scale, monitor, and maintain it.
+
+If it cannot survive a real customer, a real auditor, and a real SLA, it is unfinished. The by-product is the only product: **money saved · money made · hours returned**.
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mdshahbaz7434/mdshahbaz7434/main/assets/workflow.png?v=3" alt="Factory line: Problem, Design, Data-first ETL, Build AI, Ship, Scale — by-product is money and hours" width="100%" />
+  <img src="https://raw.githubusercontent.com/mdshahbaz7434/mdshahbaz7434/main/assets/workflow.png?v=4" alt="Factory line: Problem, Design, Data-first ETL, Build AI, Ship, Scale — by-product is money and hours" width="100%" />
 </div>
 
 ---
@@ -38,7 +47,7 @@ Same factory. Different leak. Each row is a problem I ran through the line.
 | Account files bouncing between branch and CPU | **Design** one journey · **Data** KYC pack · **AI** + rules audit · **Ship** form + engine | **Account Opening Form** + **Audit Engine** — capture once, audit once |
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mdshahbaz7434/mdshahbaz7434/main/assets/pillars.png?v=3" alt="Revenue, cost, and productivity pillars" width="100%" />
+  <img src="https://raw.githubusercontent.com/mdshahbaz7434/mdshahbaz7434/main/assets/pillars.png?v=4" alt="Revenue, cost, and productivity pillars" width="100%" />
 </div>
 
 ---
@@ -76,20 +85,43 @@ Rules + AI on every opening pack. Flags missing docs, KYC gaps, policy breaks. W
 
 ---
 
+## Skills, tools, technologies, frameworks
+
+This is the board I can sit down and work on — used in production, not a course list.
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mdshahbaz7434/mdshahbaz7434/main/assets/skills.png?v=3" alt="Skills segregated by factory station with proof numbers" width="100%" />
+  <img src="https://raw.githubusercontent.com/mdshahbaz7434/mdshahbaz7434/main/assets/stack.png?v=4" alt="Tools, technologies, and frameworks Shehbaz ships with" width="100%" />
 </div>
 
-### Skill set, segregated (not a toolbox dump)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,azure,docker,kubernetes,linux,react,ts,fastapi,git,githubactions,anaconda" alt="Core engineering icons" />
+</p>
 
-| Station | I use | Number that proves I used it |
+| Layer | What I work in |
+| :--- | :--- |
+| **Languages** | Python · SQL · R · TypeScript · Bash / Shell · MATLAB |
+| **Data engineering & ETL** | Apache Spark / PySpark · Kafka · Hive · Hadoop / HDFS · Teradata · Informatica BDM · Apache Airflow · Azure Data Factory · Dask |
+| **Stores & serving** | Oracle · MySQL · Teradata · HBase · ChromaDB (vector) |
+| **AI / ML / agents** | PyTorch · TensorFlow · Keras · Scikit-learn · Statsmodels · LangChain · RAG · Multi-agent systems · OCR · Ollama / Qwen · FastAPI |
+| **MLOps & industrialize** | Kubeflow · MLflow · Docker · Kubernetes · CI/CD · Jenkins · Linux · Celery · canary / rollback |
+| **Cloud & architecture** | Azure · on-prem banking · microservices · Solution architecture · Forward-deployed delivery |
+| **Quality, risk, domain** | Informatica IDQ · Axon · Soda · Pytest · Data 360 · KYC / AML · SBP · DAMA-DMBOK · IFRS 9 |
+| **Product & insight** | React · Account opening · Onboarding audit engines · Power BI · Tableau · Plotly |
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mdshahbaz7434/mdshahbaz7434/main/assets/skills.png?v=4" alt="Skills segregated by factory station with proof numbers" width="100%" />
+</div>
+
+### Same stack, mapped to the factory
+
+| Station | Tools on that station | Number that proves it |
 | :--- | :--- | :--- |
-| **01 Problem** | Credit risk · KYC / AML · SBP · IFRS 9 · DAMA-DMBOK | 40% faster loans · onboarding gaps named |
-| **02 Design** | Solution architecture · on-prem banking · Azure · product flows | Form + audit as one machine |
-| **03 Data first** | Python · SQL · Spark · Kafka · Hive · Teradata · Informatica · Airflow | **2TB+ / day** lake |
-| **04 Build AI** | LangChain · RAG · Multi-agent · OCR · PyTorch · TensorFlow · sklearn · FastAPI | **+20%** sales · **$2M+** saved |
+| **01 Problem** | Credit risk · KYC / AML · SBP · IFRS 9 · DAMA-DMBOK | 40% faster loans |
+| **02 Design** | Solution architecture · on-prem · Azure · product flows | Form + audit as one machine |
+| **03 Data first** | Python · SQL · Spark · Kafka · Hive · Teradata · Informatica · Airflow | **2TB+ / day** |
+| **04 Build AI** | LangChain · RAG · Multi-agent · OCR · PyTorch · TensorFlow · sklearn · FastAPI | **+20%** sales · **$2M+** |
 | **05 Ship** | Kubeflow · MLflow · Docker · Kubernetes · CI/CD · React · Linux | **Weeks → hours** |
-| **06 Scale + care** | Soda · Data 360 · self-heal ETL · canary / rollback | **90%** downtime gone · **15k** auto-fixes |
+| **06 Scale + care** | Soda · Data 360 · self-heal ETL · canary / rollback | **90%** downtime · **15k** fixes |
 
 ---
 

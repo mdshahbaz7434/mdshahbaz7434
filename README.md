@@ -6,7 +6,6 @@
 
 <div align="center">
 
-# Shehbaz Muneer
 
 **Forward Deployed Engineer | Solution Architect**  
 AI Industrialization Lead & MLOps · United Bank Limited · Karachi

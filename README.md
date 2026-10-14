@@ -7,7 +7,7 @@
 <div align="center">
 
 
-**Forward Deployed Engineer | Solution Architect**  
+**Lead Forward Deployed AI Engineer | Solution Architect**  
 AI Industrialization Lead & MLOps · United Bank Limited · Karachi
 
 [LinkedIn](https://www.linkedin.com/in/shehbazmuneer/) · [Email](mailto:muhammadshahbazmuneer74@gmail.com) · [IEEE](https://doi.org/10.1109/IMCERT57083.2023.10075275)
